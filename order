@@ -1,0 +1,4 @@
+[weilaidb@localhost tests]$ gcc test_fork.cpp -lzmq -I/usr/local/zeromq/include/ -I../builds/zos/
+[weilaidb@localhost tests]$ pwd
+/home/weilaidb/zeromq-4.1.5/tests
+
